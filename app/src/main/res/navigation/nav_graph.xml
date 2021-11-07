@@ -29,5 +29,5 @@
     <fragment
         android:id="@+id/settings_fragment"
         android:name="com.zybooks.thebanddatabase.Settings_fragment"
-        android:label="Settings_fragment" />
+        android:label="The Brand Database Settings" />
 </navigation>

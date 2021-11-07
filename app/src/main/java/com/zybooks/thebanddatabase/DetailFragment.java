@@ -19,7 +19,7 @@ public class DetailFragment extends Fragment {
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
 
-        int bandId = 1;
+        int bandId = 2;
 
         // Get the selected band
         mBand = BandRepository.getInstance(requireContext()).getBand(bandId);
